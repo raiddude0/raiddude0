@@ -10,8 +10,8 @@
 
 ## 📂 Featured Projects
 - [MiniML](https://github.com/raiddude0/MiniML) – Lightweight ML library from scratch   
-- Image Classification – CNN on custom dataset  
-- A small EDA :)
+- [Multilingual_sentiment_analysis](https://github.com/raiddude0/multilingual_sentiment_analysis) – Sentiment analysis NLP project
+- Iris Classification – CNN on the famous iris flower dataset  
 
 
 
